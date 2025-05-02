@@ -1,5 +1,5 @@
 # PhD-Shortlist-Algorithm-GUI
-I made an algorithm to sort candidates seeking to enroll in PhD programs offered by IIT ROORKEE.
+I &  [DigbonesMajor](https://github.com/DigbonesMajor) made an algorithm  to sort candidates seeking to enroll in PhD programs offered by IIT ROORKEE.
 The code is written in Matlab , GUI was made using App Designer and requires a .xlsx file consisting of all the candidates who applied for PhD in IIT ROORKEE to shortlist from.
 The code consists of 3 phases:
 1. Shortlisting - Divides the Candidates based on category and subject preference.
